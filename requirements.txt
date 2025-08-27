@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+scapy
+asyncio-mqtt
+redis
+websockets
+cryptography
+pypcap
+netfilterqueue
+asyncpg
+kafka-python
+ray
+scikit-learn
+pandas
+numpy
+prometheus-client
